@@ -49,7 +49,7 @@ public class Time
   // TODO: Part F - write the tick method
   public void tick()
   {
-
+    a
   }
 x
   // TODO: Part G - write the add method
